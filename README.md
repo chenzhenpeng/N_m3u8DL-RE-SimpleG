@@ -20,10 +20,5 @@
 
 ![暗黑模式](https://github.com/chenzhenpeng/N_m3u8DL-RE-SimpleG/blob/main/image/%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F.png)
 
-## 高级参数（示例二）
-
-如果需要展示更多高级参数设置的细节，也可以参考下图：
-
-![高级参数](https://github.com/chenzhenpeng/N_m3u8DL-RE-SimpleG/blob/main/image/%E9%AB%98%E7%BA%A7%E5%8F%82%E6%95%B0.png)
 
 
