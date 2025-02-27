@@ -1,6 +1,6 @@
 # N_m3u8DL-RE Windows GUI
 
-本文档介绍了基于 N_m3u8DL-RE(项目地址：https://github.com/nilaoda/N_m3u8DL-RE) 的 Windows GUI 界面设计，界面主要分为以下几个部分：
+本文档介绍了基于 N_m3u8DL-RE(https://github.com/nilaoda/N_m3u8DL-RE) 的 Windows GUI 界面设计，界面主要分为以下几个部分：
 
 ## 基本参数
 
